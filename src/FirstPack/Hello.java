@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("Hello GIT");
         System.out.println("hello again");
         System.err.println("vot eto povorot");
+        System.out.println("Master OUT");
     }
 
 }
